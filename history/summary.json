@@ -4,18 +4,20 @@
     "url": "https://oj.socoding.cn/",
     "icon": "https://favicons.githubusercontent.com/oj.socoding.cn",
     "slug": "scnu-online-judge",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1172,
-    "timeDay": 1172,
-    "timeWeek": 1172,
-    "timeMonth": 1172,
-    "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 1069,
+    "timeDay": 1069,
+    "timeWeek": 1069,
+    "timeMonth": 1069,
+    "timeYear": 1069,
+    "dailyMinutesDown": {
+      "2021-06-28": 0
+    }
   },
   {
     "name": "Socoding Discourse",
@@ -40,17 +42,19 @@
     "url": "https://mirrors.socoding.cn/",
     "icon": "https://favicons.githubusercontent.com/mirrors.socoding.cn",
     "slug": "socoding-mirror",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1118,
-    "timeDay": 1118,
-    "timeWeek": 1118,
-    "timeMonth": 1118,
-    "timeYear": 1118,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 941,
+    "timeDay": 941,
+    "timeWeek": 941,
+    "timeMonth": 941,
+    "timeYear": 941,
+    "dailyMinutesDown": {
+      "2021-06-28": 0
+    }
   }
 ]
