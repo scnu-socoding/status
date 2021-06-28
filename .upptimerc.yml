@@ -1,31 +1,25 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: scnu-socoding
+repo: status
+
+assignees:
+  - bobby285271
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: SCNU Online Judge
+    url: https://oj.socoding.cn/
+  - name: Socoding Discourse
+    url: https://socoding.cn/
+  - name: Socoding Mirror
+    url: https://mirrors.socoding.cn/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.socoding.cn
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status - SCNU SoCoding
+  introTitle: "华南师大软件协会公网服务状态"
+  introMessage: 华南师范大学软件协会隶属于软件学院，是华师南海校区最具实力的以 IT 专业学生为载体的组织。我们的愿景是：营造院内学术氛围，分享具有实用价值的经验，开发和运营实用的互联网产品。 
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/$OWNER
