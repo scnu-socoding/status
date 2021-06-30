@@ -2,7 +2,7 @@
 name: Scheduled maintenance
 about: Create a new scheduled maintenance
 title: ''
-labels: 'maintenance'
+labels: ''
 assignees: 'bobb285271'
 
 ---
