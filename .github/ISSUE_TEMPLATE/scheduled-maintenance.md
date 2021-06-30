@@ -13,3 +13,6 @@ end: 2021-07-13T00:00:00Z
 expectedDown: scnu-online-judge, socoding-mirror
 -->
 
+<!--
+Labels should be added manually by admin.
+-->
