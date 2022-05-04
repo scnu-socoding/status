@@ -10,10 +10,10 @@ assignees:
 sites:
   - name: SCNU Online Judge
     url: https://oj.socoding.cn/
-  - name: Socoding Discourse
-    url: https://socoding.cn/
-  - name: Socoding Mirror
-    url: https://mirrors.socoding.cn/
+#  - name: Socoding Discourse
+#    url: https://socoding.cn/
+#  - name: Socoding Mirror
+#    url: https://mirrors.socoding.cn/
 
 status-website:
   cname: status.socoding.cn
