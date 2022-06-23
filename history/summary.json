@@ -4,18 +4,19 @@
     "url": "https://oj.socoding.cn/",
     "icon": "https://favicons.githubusercontent.com/oj.socoding.cn",
     "slug": "scnu-online-judge",
-    "status": "up",
-    "uptime": "89.15%",
-    "uptimeDay": "96.21%",
+    "status": "down",
+    "uptime": "89.17%",
+    "uptimeDay": "96.20%",
     "uptimeWeek": "90.68%",
     "uptimeMonth": "97.13%",
-    "uptimeYear": "89.15%",
+    "uptimeYear": "89.17%",
     "time": 1260,
-    "timeDay": 1036,
-    "timeWeek": 1093,
-    "timeMonth": 1120,
+    "timeDay": 1086,
+    "timeWeek": 1103,
+    "timeMonth": 1123,
     "timeYear": 1260,
     "dailyMinutesDown": {
+      "2022-06-23": 0,
       "2022-06-22": 55,
       "2022-06-21": 59,
       "2022-06-19": 762,
@@ -106,7 +107,7 @@
       "2021-07-13": 21,
       "2021-07-12": 30,
       "2021-06-29": 178,
-      "2021-06-28": 43
+      "2021-06-28": 28
     }
   }
 ]
