@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status - SCNU SoCoding
   introTitle: "华南师大软件协会公网服务状态"
-  introMessage: 华南师范大学软件协会隶属于软件学院，是华师南海校区最具实力的以 IT 专业学生为载体的组织。我们的愿景是：营造院内学术氛围，分享具有实用价值的经验，开发和运营实用的互联网产品。 
+  introMessage: "华南师范大学软件协会隶属于软件学院，是华师南海校区最具实力的以 IT 专业学生为载体的组织。我们的愿景是：营造院内学术氛围，分享具有实用价值的经验，开发和运营实用的互联网产品。欢迎加入我们：https://socoding.cn/" 
   navbar:
     - title: Status
       href: /
