@@ -7,10 +7,10 @@ assignees:
   - M1saka10010
 
 sites:
-  - name: SCNU Online Judge
+  - name: SoCoding Online Judge
     url: https://oj.socoding.cn/
-#  - name: Socoding Discourse
-#    url: https://socoding.cn/
+  - name: Socoding Web Page
+    url: https://socoding.cn/
 #  - name: Socoding Mirror
 #    url: https://mirrors.socoding.cn/
 
