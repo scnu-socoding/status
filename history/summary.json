@@ -22,19 +22,19 @@
     "url": "https://socoding.cn/",
     "icon": "https://favicons.githubusercontent.com/socoding.cn",
     "slug": "socoding-web-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 192,
-    "timeWeek": 241,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 298,
+    "timeDay": 380,
+    "timeWeek": 282,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 26
     }
   }
 ]
