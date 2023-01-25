@@ -4,19 +4,19 @@
     "url": "https://oj.socoding.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/oj.socoding.cn.ico",
     "slug": "so-coding-online-judge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 915,
-    "timeWeek": 1042,
-    "timeMonth": 1040,
-    "timeYear": 1036,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1037,
+    "timeDay": 1020,
+    "timeWeek": 1052,
+    "timeMonth": 1043,
+    "timeYear": 1037,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 28
     }
   },
   {
