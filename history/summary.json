@@ -6,15 +6,15 @@
     "slug": "so-coding-online-judge",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.08%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1035,
-    "timeDay": 967,
-    "timeWeek": 1033,
-    "timeMonth": 1043,
-    "timeYear": 1035,
+    "time": 1036,
+    "timeDay": 1221,
+    "timeWeek": 1048,
+    "timeMonth": 1051,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2023-01-25": 28
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 358,
-    "timeDay": 399,
-    "timeWeek": 419,
-    "timeMonth": 375,
+    "timeDay": 427,
+    "timeWeek": 388,
+    "timeMonth": 377,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2022-09-15": 26
