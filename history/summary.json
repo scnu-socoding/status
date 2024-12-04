@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/oj.socoding.cn.ico",
     "slug": "so-coding-online-judge",
     "status": "up",
-    "uptime": "90.34%",
+    "uptime": "90.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "78.44%",
     "time": 1331,
-    "timeDay": 1203,
-    "timeWeek": 1320,
-    "timeMonth": 1308,
+    "timeDay": 1310,
+    "timeWeek": 1324,
+    "timeMonth": 1318,
     "timeYear": 1368,
     "dailyMinutesDown": {
       "2024-11-14": 17,
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 354,
-    "timeWeek": 412,
+    "timeDay": 329,
+    "timeWeek": 427,
     "timeMonth": 363,
-    "timeYear": 453,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   }
 ]
