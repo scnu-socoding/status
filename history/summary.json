@@ -6,17 +6,16 @@
     "slug": "so-coding-online-judge",
     "status": "up",
     "uptime": "91.41%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "91.79%",
-    "time": 1354,
-    "timeDay": 1209,
-    "timeWeek": 1191,
-    "timeMonth": 1317,
-    "timeYear": 1445,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "91.87%",
+    "time": 1353,
+    "timeDay": 1185,
+    "timeWeek": 1166,
+    "timeMonth": 1287,
+    "timeYear": 1446,
     "dailyMinutesDown": {
-      "2025-03-15": 15,
       "2025-03-02": 16,
       "2024-11-14": 17,
       "2024-09-09": 16,
@@ -49,8 +48,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -65,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 440,
-    "timeDay": 535,
-    "timeWeek": 334,
-    "timeMonth": 335,
+    "timeDay": 319,
+    "timeWeek": 318,
+    "timeMonth": 334,
     "timeYear": 445,
     "dailyMinutesDown": {}
   }
