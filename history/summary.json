@@ -4,8 +4,8 @@
     "url": "https://oj.socoding.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/oj.socoding.cn.ico",
     "slug": "so-coding-online-judge",
-    "status": "up",
-    "uptime": "93.24%",
+    "status": "down",
+    "uptime": "93.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.74%",
     "uptimeMonth": "86.36%",
@@ -16,6 +16,7 @@
     "timeMonth": 1403,
     "timeYear": 1326,
     "dailyMinutesDown": {
+      "2026-02-15": 0,
       "2026-02-10": 410,
       "2026-02-09": 323,
       "2026-01-31": 1124,
